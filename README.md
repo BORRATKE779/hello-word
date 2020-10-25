@@ -1,2 +1,4 @@
 # hello-word
-Just testing
+Hi..
+my name is zul
+i am maths teacher
